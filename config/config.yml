@@ -1,0 +1,15 @@
+JWT_SECRET: "HNXRAXFnVwhCRGD4n6mQQE5ntY8TAFaaLrf9iCTQ"
+
+EVN: "DEV"
+
+PORT: "3500"
+
+PORT_DEV: "8080"
+
+MONGO:
+  URI: "mongodb://localhost:27017"
+  URI_DEV: "mongodb://localhost:27017"
+  DATABASE: "weight-explorer"
+  DATABASE_DEV: "weight-explorer"
+
+FILESROUTE: "./files"
